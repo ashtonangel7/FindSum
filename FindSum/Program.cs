@@ -32,7 +32,6 @@
 		}
 		static void Main(string[] args)
 		{
-
 			List<int> sumParts = new List<int>()
 			{
 				1,3,5,7,9,11,2,6,8,0,4,10,12,-2,14,-6,-6
